@@ -1,9 +1,1 @@
-
-
-    Directory: C:\dev\git1
-
-Mode                LastWriteTime         Length Name
-----                -------------         ------ ----
--a----         6/27/2019  9:19 PM              0 f1.txt
--a----         6/27/2019  9:11 PM             31 README.md
-
+aaa
